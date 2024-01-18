@@ -1,0 +1,46 @@
+3• Sorcier qui droppe des potions au lieu de l'or (en vert)✅
+
+6• Plante toxique qui fait des dégâts = à la moitié de sa vie chaque tour où elle est sur le plateau (vie entre 20 et 40) et qui droppe une potion = à la moitié de sa vie✅
+
+8• Coffre /Jarre (marron, image de point d'interrogation? ou juste coffre/jarre) qui droppe un truc random
+	• la valeur du coffre est la valeur de l'objet
+	• on peut mettre des alertes annonçant l'effet du coffre, un piège qui fait perdre de la vie, une pomme qui en rajoute✅
+
+• plante explosive qui explose et met fin à la partie si elle reste pendant + de 10 tours (vie à 70) et qui droppe une arme = à sa vie ✅
+
+5• best score (affiché au dessus des points + à la fin en mm temps que les points sur la console)  ✅
+
+4• sauvegarde ✅
+
+2• petites icones ✅
+
+1• AFFICHAGE DE L'ATTAQUE dans la case du héros ✅
+
+9 • modif de la langue possible  ✅
+
+10 • javadoc ✅
+
+• système de lampe 
+-> on voit seulement les cases directement à gauche, à droite, en haut et en bas (on peut mettre une image de brouillard ou juste du gris sur les autres)
+-> une case lampe qui permet de voir tt les cases pendant un certain nombre de tours ✅
+
+
+Ennemis
+Monstre : 10/20
+Sorcier : 6/20
+Champoison : 3/20
+Bombe : 1/20
+
+Bonus
+Or : 7/20
+Arme : 6/20
+Potion : 5/20
+Amphore : 1,5/20
+Lampe : 0,5/20
+
+
+
+
+
+
+
